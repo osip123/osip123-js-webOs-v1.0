@@ -1,0 +1,11 @@
+body{
+    $color: black;
+    $sysbg: aliceblue;
+    $sysbgac: 10182b;
+}
+
+body.dark{
+    $color: aliceblue;
+    $sysbg: 1b202b;
+    $sysbgac: 10182b;
+}

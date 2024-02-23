@@ -1,0 +1,25 @@
+@import './vars/vars.scss';
+
+body, html{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:is(a, li, ol, span, h1, h2, h3, h4, h5){
+    text-decoration: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    width: 100vw;
+    height: 100vh;
+    padding: 10px;
+}
